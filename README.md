@@ -1,6 +1,6 @@
 # Transform Spread Sheets
 
-Map out only useful information for On-Hold Support Clients to a new spreadsheet. Ues the new spreadsheet to manage on-hold Zendesk/Jira tickets to minimize Americas client churn risk - from a Support/Consulting perspective.
+Map out only useful information for On-Hold Support Clients to a new spreadsheet. Use the new spreadsheet to manage on-hold Zendesk/Jira tickets to minimize Americas client churn risk - from a Support/Consulting perspective.
 
 ### Before
 
